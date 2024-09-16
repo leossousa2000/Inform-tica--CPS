@@ -4,14 +4,14 @@ Na aula de informática iremos aprender a utilizar o EXCEL e outras ferramentas 
 
 # Índice
 
-* [Projeto](#projeto)
+* [Aulas](#aulas)
 * [Informação Pessoal](#informação-pessoal)
 * [Objetivo das Aulas](#objetivo-das-aulas)
 * [Funcionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
 
-# Projeto  
+# Aulas
 Desenvolver as habilidades e competências relacionadas ao campo da Informática
 
 # Informação Pessoal
@@ -27,24 +27,6 @@ Esta matéria tem como objetivo ajudar e facilitar na utilização do excel e ou
 * Versionar e controlar as alterações;
 * Facilitar o compartilhamento e feedback;
 * Desenvolver habilidades técnicas.
-
-
-
-# Requisitos
-
-Requisitos funcionais 
-- Conteúdo da apresentação   
-- Relatórios 
-- Experiência do usuário ao oferecer algo mais (UX)
-
-  
-Requisitos não funcionais
-- Usar tecnologias especifícas/apoio/tecnológicas
-- Metodologias ágil
-- Power BI / Jira / Canvas
-  
-
-
 
 
 # Funcionalidades e registros (vídeos e apresentações)
