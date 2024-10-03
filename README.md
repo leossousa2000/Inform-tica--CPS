@@ -12,14 +12,19 @@ Na aula de informática iremos aprender a utilizar o EXCEL e outras ferramentas 
 
 
 # Aulas
-Aula 1 - Apresentação Pessoal "3 coisas que temos em comum" - CANVA
-Aula 2 - Excel - (soma/cont-se/se)
-Aula 3 - Excel - Gráficos e tratamento de dados
-Aula 4 - Excel - Gráficos e tratamento de dados
-Aula 5 - Excel - Dados abertos "dados públicos) - Tratamento dos dados e visualizações através de gráficos.
-Aula 6 - Power BI - Estudo de vendas de lojas e filiais em diferentes cidades.
-Aula 7 - Power BI - Análise de dados dos indicadores das escolas de São Paulo - visualizações em gráficos e imagens via URL WEB.
+*Aula 1 - Apresentação Pessoal "3 coisas que temos em comum" - CANVA
 
+*Aula 2 - Excel - (soma/cont-se/se)
+
+*Aula 3 - Excel - Gráficos e tratamento de dados
+
+*Aula 4 - Excel - Gráficos e tratamento de dados
+
+*Aula 5 - Excel - Dados abertos "dados públicos) - Tratamento dos dados e visualizações através de gráficos.
+
+*Aula 6 - Power BI - Estudo de vendas de lojas e filiais em diferentes cidades.
+
+*Aula 7 - Power BI - Análise de dados dos indicadores das escolas de São Paulo - visualizações em gráficos e imagens via URL WEB.
 ![Power_bi](https://github.com/user-attachments/assets/a269afea-05b4-4648-af98-463580b24373)
 
 
