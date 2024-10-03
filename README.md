@@ -24,7 +24,7 @@ Na aula de informática iremos aprender a utilizar o EXCEL e outras ferramentas 
 
 *Aula 6 - Power BI - Estudo de vendas de lojas e filiais em diferentes cidades.
 
-##Aula 7 - Power BI - Análise de dados dos indicadores das escolas de São Paulo - visualizações em gráficos e imagens via URL WEB.
+## Aula 7 - Power BI - Análise de dados dos indicadores das escolas de São Paulo - visualizações em gráficos e imagens via URL WEB.
 ![Power_bi](https://github.com/user-attachments/assets/a269afea-05b4-4648-af98-463580b24373)
 
 
