@@ -30,6 +30,12 @@ Na aula de informática iremos aprender a utilizar o EXCEL, POWER BI e outras fe
 ## Aula 8 - Power BI - Análise dos dados dos EX-PRESIDENTES do BRASIL dos anos de 2021 à 2024
 ![Captura de tela 2024-10-10 194947](https://github.com/user-attachments/assets/efd66acf-da6c-4d80-bc5a-66e0ebc05d52)
 
+## Aula 9 - Power BI
+
+## Aula 10 - Power BI - Continuação de análise dos dados dos EX-PRESIDENTES - KPI
+![image](https://github.com/user-attachments/assets/e158aace-bf0e-4d54-941e-252b1290a38e)
+![image](https://github.com/user-attachments/assets/dedbef1d-e8df-4307-b4f9-dcb3414a3da0)
+
 
 # Informação Pessoal
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn                                                                                                                                                      |
