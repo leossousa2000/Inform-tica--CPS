@@ -19,15 +19,15 @@ Na aula de informática iremos aprender a utilizar o EXCEL, POWER BI e outras fe
 ![image](https://github.com/user-attachments/assets/bc98d05b-8c5f-45bc-9088-9dc6c6baafd3)
 
 ## Aula 3 - Excel - Gráficos e tratamento de dados
-![image](https://github.com/user-attachments/assets/aad5818c-c8b0-4275-b147-7839ee7e997e)
+![image](https://github.com/user-attachments/assets/f617719d-9f09-4262-a030-ea62c13b5fc9)
+![image](https://github.com/user-attachments/assets/b93fc7e6-8609-4175-b6e0-bbd91ccfe585)
 ![image](https://github.com/user-attachments/assets/4c7bf058-f418-4f2b-972b-c18e7b2a0b53)
 
-
 ## Aula 4 - Excel - Gráficos e tratamento de dados
-![image](https://github.com/user-attachments/assets/2b72f5c6-6835-4928-ad5b-22458a8879ed)
+![image](https://github.com/user-attachments/assets/aad5818c-c8b0-4275-b147-7839ee7e997e)
 
 ## Aula 5 - Excel - Dados abertos "dados públicos) - Tratamento dos dados e visualizações através de gráficos.
-
+![image](https://github.com/user-attachments/assets/2b72f5c6-6835-4928-ad5b-22458a8879ed)
 
 ## Aula 6 - Power BI - Estudo de vendas de lojas e filiais em diferentes cidades.
 
