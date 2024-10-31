@@ -30,6 +30,7 @@ Na aula de informática iremos aprender a utilizar o EXCEL, POWER BI e outras fe
 ![image](https://github.com/user-attachments/assets/2b72f5c6-6835-4928-ad5b-22458a8879ed)
 
 ## Aula 6 - Power BI - Estudo de vendas de lojas e filiais em diferentes cidades.
+![image](https://github.com/user-attachments/assets/7ef2a2da-6bcd-4fd9-853c-8683b01dab3f)
 
 ## Aula 7 - Power BI - Análise de dados dos indicadores das escolas de São Paulo - visualizações em gráficos e imagens via URL WEB.
 ![Power_bi](https://github.com/user-attachments/assets/a269afea-05b4-4648-af98-463580b24373)
@@ -37,9 +38,7 @@ Na aula de informática iremos aprender a utilizar o EXCEL, POWER BI e outras fe
 ## Aula 8 - Power BI - Análise dos dados dos EX-PRESIDENTES do BRASIL dos anos de 2021 à 2024
 ![Captura de tela 2024-10-10 194947](https://github.com/user-attachments/assets/efd66acf-da6c-4d80-bc5a-66e0ebc05d52)
 
-## Aula 9 - Power BI
-
-## Aula 10 - Power BI - Continuação de análise dos dados dos EX-PRESIDENTES - KPI
+## Aula 9/10 - Power BI - Continuação de análise dos dados dos EX-PRESIDENTES - KPI
 ![image](https://github.com/user-attachments/assets/e158aace-bf0e-4d54-941e-252b1290a38e)![image](https://github.com/user-attachments/assets/dedbef1d-e8df-4307-b4f9-dcb3414a3da0)
 
 
