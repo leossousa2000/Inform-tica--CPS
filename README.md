@@ -21,11 +21,10 @@ Na aula de informática iremos aprender a utilizar o EXCEL, POWER BI e outras fe
 ## Aula 3 - Excel - Gráficos e tratamento de dados
 ![image](https://github.com/user-attachments/assets/aad5818c-c8b0-4275-b147-7839ee7e997e)
 ![image](https://github.com/user-attachments/assets/4c7bf058-f418-4f2b-972b-c18e7b2a0b53)
-![image](https://github.com/user-attachments/assets/2b72f5c6-6835-4928-ad5b-22458a8879ed)
+
 
 ## Aula 4 - Excel - Gráficos e tratamento de dados
-
-
+![image](https://github.com/user-attachments/assets/2b72f5c6-6835-4928-ad5b-22458a8879ed)
 
 ## Aula 5 - Excel - Dados abertos "dados públicos) - Tratamento dos dados e visualizações através de gráficos.
 
