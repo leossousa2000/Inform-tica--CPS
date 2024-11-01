@@ -1,6 +1,10 @@
 # Inform-tica-GPI-1-2-semestre
 Na aula de informática iremos aprender a utilizar o EXCEL, POWER BI e outras ferramentas aprendendo novos métodos e fórmulas
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lari104/LightYagami/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lari104/LightYagami/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lari104/LightYagami /output/github-contribution-grid-snake.svg">
+</picture>
 
 # Índice
 
