@@ -42,6 +42,10 @@ Na aula de informática iremos aprender a utilizar o EXCEL, POWER BI e outras fe
 ![image](https://github.com/user-attachments/assets/e158aace-bf0e-4d54-941e-252b1290a38e)![image](https://github.com/user-attachments/assets/dedbef1d-e8df-4307-b4f9-dcb3414a3da0)
 [Arquivo da aula](https://app.powerbi.com/links/YTIlxo79f9?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare)
 
+# Aula 11 - PowerApps - Criação de um aplicativo
+[![Nome do Vídeo](![Captura de tela 2024-11-20 103114](https://github.com/user-attachments/assets/a45a5041-1bee-4109-b936-4a8f7778e0fe))](https://youtu.be/gUcfzCOYNVw)
+
+
 
 # Informação Pessoal
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn                                                                                                                                                      |
