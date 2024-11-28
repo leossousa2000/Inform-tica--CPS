@@ -45,6 +45,10 @@ Na aula de informática iremos aprender a utilizar o EXCEL, POWER BI e outras fe
 # Aula 11 - PowerApps - Criação de um aplicativo
 [![Nome do Vídeo](![Captura de tela 2024-11-20 103114](https://github.com/user-attachments/assets/a45a5041-1bee-4109-b936-4a8f7778e0fe))](https://youtu.be/gUcfzCOYNVw)
 
+# Avaliação 28/11/2024
+![Captura de tela 2024-11-28 203231](https://github.com/user-attachments/assets/56f42c23-ed7a-4784-baa4-383d19eaec39)
+
+
 
 
 # Informação Pessoal
